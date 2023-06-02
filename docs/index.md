@@ -82,7 +82,7 @@ elif(strchoice=="2"):# display current data in binary file
      objfile2.close
      continue  
  ```  
- **Listing 4: The code to save data to the binary file**    
+ **Listing 4: The code to save data to the binary file**     
   
  ![Running the program in Windows command prompt]( https://github.com/mehrabileila/ITFnd100-Mod07/blob/main/docs/Picture5.png "Figure3: Running the program in Windows command prompt")  
  **Figure 3: Running the program in Windows command prompt**  
